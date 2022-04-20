@@ -1,6 +1,6 @@
 # INTEGERS, FLOATING-POINT & COMPLEX NUMBERS
 
-#### Python has 3 built-in numerica data types
+#### Python has 3 built-in numeric data types
 
 > **_Integer_** - (from the Latin integer meaning **"whole"**) is a number that can be written without a fractional component (decimals or fractions).
 
